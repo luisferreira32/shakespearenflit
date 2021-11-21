@@ -1,2 +1,5 @@
 # virutal environments
 venv/
+
+# there as a need to have a couple more files open which won't be commited to source control
+helper*
